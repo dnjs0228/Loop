@@ -9,7 +9,7 @@ function setup() {
 
 function draw () {
 
-   background(128, 0, 64);
+   background(128, 0, 65);
 
 for (var x = 1; x <= 8; x++)
 {
